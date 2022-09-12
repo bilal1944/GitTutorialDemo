@@ -1,0 +1,1 @@
+This is a first git repositsory which I pushed on my GitHub account through Git Bash.
